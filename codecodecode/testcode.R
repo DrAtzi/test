@@ -1,2 +1,3 @@
 #nochmal ein neues Rscript
-print("WTF")
+print("It works!")
+
